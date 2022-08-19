@@ -67,7 +67,7 @@ For the purpose of having JetBot drive in the right way, we try to minimize the 
 This part is focused on how to let JetBot know state itself and plan a path to the destination.
   
 ### Aruco Marker
-Based on our [detailed map](https://github.com/davidwater/Capstone-Project-JetBot/blob/main/map_detailed.png), we can define our [aruco markers](https://github.com/davidwater/Capstone-Project-JetBot/tree/main/path%20planning/aruco%20marker)as a npz file `aruco_param.npz` which can provide JetBot position and pose on the real-time world.
+Based on our [detailed map](https://github.com/davidwater/Capstone-Project-JetBot/blob/main/map_detailed.png), we can define our [aruco markers](https://github.com/davidwater/Capstone-Project-JetBot/tree/main/path%20planning/aruco%20marker) as a npz file `aruco_param.npz` which can provide JetBot position and pose on the real-time world.
   
 ### Digital Map
 We create a [digital map](https://github.com/davidwater/Capstone-Project-JetBot/blob/main/path%20planning/digital_map.jpg) to apply for the work of `A* algorithm` afterwards.
