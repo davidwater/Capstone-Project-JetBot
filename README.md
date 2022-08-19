@@ -47,6 +47,8 @@ For the purpose of having JetBot drive in the right way, we try to minimize the 
 #### ● Demo
 [![Lane Following (first perspective)](http://img.youtube.com/vi/-roYyNna5sg/0.jpg)](http://www.youtube.com/watch?v=-roYyNna5sg)
   
+[![Lane Following](http://img.youtube.com/vi/-roYyNna5sg/0.jpg)](http://www.youtube.com/watch?v=-roYyNna5sg)
+  
 ***
   
 ## Human Detection
