@@ -47,7 +47,7 @@ For the purpose of having JetBot drive in the right way, we try to minimize the 
 #### ● Demo
 [![Lane Following (first perspective)](http://img.youtube.com/vi/-roYyNna5sg/0.jpg)](http://www.youtube.com/watch?v=-roYyNna5sg)
   
-[![Lane Following](http://img.youtube.com/vi/-roYyNna5sg/0.jpg)](http://www.youtube.com/watch?v=-roYyNna5sg)
+[![Lane Following (third perspective)](http://img.youtube.com/vi/li1O5FhXX_4/0.jpg)](http://www.youtube.com/watch?v=li1O5FhXX_4)
   
 ***
   
